@@ -52,3 +52,10 @@ If needed: Install npm dependencies
 ```
 npm init -y
 ```
+
+
+---
+
+### 2️⃣ Start MongoDB Server
+
+Make sure MongoDB is running locally:
