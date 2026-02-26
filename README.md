@@ -52,10 +52,22 @@ If needed: Install npm dependencies
 ```
 npm init -y
 ```
-
-
 ---
 
 ### 2️⃣ Start MongoDB Server
 
 Make sure MongoDB is running locally:
+
+
+---
+
+### 3️⃣ Basic Connection Example
+
+```javascript
+const mongoose = require("mongoose");
+
+mongoose.connect("mongodb://127.0.0.1:27017/testDB")
+.then(() => console.log("Connected to MongoDB"))
+.catch((err) => console.log(err));
+```
+
