@@ -86,10 +86,13 @@ module.exports = mongoose.model("User", userSchema);
 
 ---
 ## 📊 Basic CRUD Commands
---
-##➕ Create
-User.create({ name: "John", email: "john@example.com", age: 22 });
-📖 Read
+---
+### ➕ Create
+```
+User.create({ name: "Yash", email: "Yash@example.com", age: 22 });
+```
+---
+### 📖 Read
 User.find();
 ✏️ Update
 User.updateOne({ name: "John" }, { age: 25 });
