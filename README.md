@@ -48,3 +48,7 @@ It serves as a foundational project for backend development using MongoDB.
 
 ### 1️⃣ Install Dependencies
 
+If needed: Install npm dependencies
+```
+npm init -y
+```
