@@ -71,3 +71,19 @@ mongoose.connect("mongodb://127.0.0.1:27017/testDB")
 .catch((err) => console.log(err));
 ```
 
+#### Example Schema:-
+```
+const mongoose = require("mongoose");
+
+const userSchema = new mongoose.Schema({
+  name: String,
+  email: String,
+  age: Number
+});
+
+module.exports = mongoose.model("User", userSchema);
+```
+
+
+
+
