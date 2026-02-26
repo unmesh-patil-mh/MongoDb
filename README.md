@@ -99,12 +99,12 @@ User.find();
 ---
 ### ✏️ Update
 ```
-User.updateOne({ name: "John" }, { age: 25 });
+User.updateOne({ name: "Yash" }, { age: 25 });
 ```
 ---
 ❌ Delete
 ```
-User.deleteOne({ name: "John" });
+User.deleteOne({ name: "Yash" });
 ```
 
 ---
