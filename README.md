@@ -93,11 +93,18 @@ User.create({ name: "Yash", email: "Yash@example.com", age: 22 });
 ```
 ---
 ### 📖 Read
+```
 User.find();
-✏️ Update
+```
+---
+### ✏️ Update
+```
 User.updateOne({ name: "John" }, { age: 25 });
+```
+---
 ❌ Delete
+```
 User.deleteOne({ name: "John" });
+```
 
-
-
+---
