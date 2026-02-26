@@ -108,3 +108,37 @@ User.deleteOne({ name: "Yash" });
 ```
 
 ---
+
+## 🎯 Learning Objectives
+
+This project helped me:
+
+- Understand NoSQL database concepts  
+- Learn MongoDB basics  
+- Connect MongoDB using Mongoose  
+- Perform CRUD operations  
+- Work with Schemas & Models  
+
+---
+
+## 🔮 Future Improvements
+
+- Add Express.js integration  
+- Convert into REST API  
+- Add validation  
+- Implement authentication  
+- Deploy to MongoDB Atlas  
+
+---
+
+## ⚖️ Disclaimer
+
+This project is created for educational purposes only.
+
+---
+
+## 👨‍💻 Author
+
+**Your Name**  
+GitHub: https://github.com/unmeh-patil-mh
+
