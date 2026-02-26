@@ -42,6 +42,3 @@ It serves as a foundational project for backend development using MongoDB.
 - ✅ Error Handling  
 - ✅ Clean & Simple Code Structure  
 
----
-
-## 📂 Project Structure
