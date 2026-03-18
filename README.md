@@ -139,6 +139,7 @@ This project is created for educational purposes only.
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Unmesh Patil**  
 GitHub: https://github.com/unmeh-patil-mh
+Linkedin: www.linkedin.com/in/unmeshpatil2005
 
