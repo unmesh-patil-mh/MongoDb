@@ -141,7 +141,8 @@ This project is created for educational purposes only.
 
 ### Unmesh Patil  
 - GitHub: https://github.com/unmeh-patil-mh
-Linkedin: www.linkedin.com/in/unmeshpatil2005 <br>
+- 
+Linkedin: www.linkedin.com/in/unmeshpatil2005
 Email: punmesh56@gmail.com
 
 ---
