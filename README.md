@@ -4,8 +4,6 @@ A simple and beginner-friendly project demonstrating how to connect **MongoDB** 
 
 This repository covers MongoDB connection setup and basic CRUD commands using Mongoose.
 
-> ⚠️ This project is created for learning and practice purposes.
-
 ---
 
 ## 📌 Project Overview
